@@ -1,6 +1,6 @@
 print('Задача «Длина слова»')
 a = 'Good health to all'
-print(len('Good health to all'))
+print(len(a))
 print('Задача «Суммы и разности»')
 first = 576
 second = 156
